@@ -47,7 +47,7 @@ Clone the repository:
 git clone https://github.com/yourusername/custom-python-shell.git
 cd custom-python-shell
 python3 myshell2.py
-
+```
 ---
 
 ## 📌 Example Commands
@@ -58,4 +58,4 @@ cat file.txt | grep hello
 sleep 10 &
 jobs
 fg 1
-
+```
